@@ -1,1 +1,1 @@
-# My Ever Evolving Gulp Workflow
+# My Ever Evolving Gulp & Bower Workflow
