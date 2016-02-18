@@ -1,3 +1,9 @@
+/************************************************************
+
+Configure all paths, names, urls needed for gulp processing.
+
+************************************************************/
+
 module.exports = {
   paths : {
     project : './',
