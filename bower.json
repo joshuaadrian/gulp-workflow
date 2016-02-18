@@ -1,0 +1,25 @@
+{
+  "name": "project-name",
+  "homepage": "https://project-name.com",
+  "authors": [
+    "Joshua Adrian <joshua@joshuaadrian.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass": "3.3.5",
+    "jquery": "^2.2.0"
+  },
+  "overrides": {
+    "bootstrap-sass": {
+      "main": [
+        "./assets/stylesheets/_bootstrap.scss",
+        "./assets/javascripts/bootstrap/transition.js",
+        "./assets/javascripts/bootstrap/button.js",
+        "./assets/javascripts/bootstrap/collapse.js",
+        "./assets/javascripts/bootstrap/dropdown.js",
+        "./assets/javascripts/bootstrap/modal.js"
+      ]
+    }
+  }
+}
